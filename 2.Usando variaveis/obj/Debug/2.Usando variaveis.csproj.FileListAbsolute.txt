@@ -1,0 +1,7 @@
+C:\Users\caroo\source\repos\Aprendendo Csharp\2.Usando variaveis\bin\Debug\2.Usando variaveis.exe.config
+C:\Users\caroo\source\repos\Aprendendo Csharp\2.Usando variaveis\bin\Debug\2.Usando variaveis.exe
+C:\Users\caroo\source\repos\Aprendendo Csharp\2.Usando variaveis\bin\Debug\2.Usando variaveis.pdb
+C:\Users\caroo\source\repos\Aprendendo Csharp\2.Usando variaveis\obj\Debug\2.Usando variaveis.csprojAssemblyReference.cache
+C:\Users\caroo\source\repos\Aprendendo Csharp\2.Usando variaveis\obj\Debug\2.Usando variaveis.csproj.CoreCompileInputs.cache
+C:\Users\caroo\source\repos\Aprendendo Csharp\2.Usando variaveis\obj\Debug\2.Usando variaveis.exe
+C:\Users\caroo\source\repos\Aprendendo Csharp\2.Usando variaveis\obj\Debug\2.Usando variaveis.pdb

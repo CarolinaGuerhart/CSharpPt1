@@ -1,0 +1,7 @@
+C:\Users\caroo\source\repos\Aprendendo Csharp\4.Aprendendo outras formas de variaveis numericas\bin\Debug\4.Aprendendo outras formas de variaveis numericas.exe.config
+C:\Users\caroo\source\repos\Aprendendo Csharp\4.Aprendendo outras formas de variaveis numericas\bin\Debug\4.Aprendendo outras formas de variaveis numericas.exe
+C:\Users\caroo\source\repos\Aprendendo Csharp\4.Aprendendo outras formas de variaveis numericas\bin\Debug\4.Aprendendo outras formas de variaveis numericas.pdb
+C:\Users\caroo\source\repos\Aprendendo Csharp\4.Aprendendo outras formas de variaveis numericas\obj\Debug\4.Aprendendo outras formas de variaveis numericas.csprojAssemblyReference.cache
+C:\Users\caroo\source\repos\Aprendendo Csharp\4.Aprendendo outras formas de variaveis numericas\obj\Debug\4.Aprendendo outras formas de variaveis numericas.csproj.CoreCompileInputs.cache
+C:\Users\caroo\source\repos\Aprendendo Csharp\4.Aprendendo outras formas de variaveis numericas\obj\Debug\4.Aprendendo outras formas de variaveis numericas.exe
+C:\Users\caroo\source\repos\Aprendendo Csharp\4.Aprendendo outras formas de variaveis numericas\obj\Debug\4.Aprendendo outras formas de variaveis numericas.pdb

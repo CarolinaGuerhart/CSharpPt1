@@ -1,0 +1,7 @@
+C:\Users\caroo\source\repos\Aprendendo Csharp\3.Usando variaveis flutuantes\obj\Debug\3.Usando variaveis flutuantes.csprojAssemblyReference.cache
+C:\Users\caroo\source\repos\Aprendendo Csharp\3.Usando variaveis flutuantes\obj\Debug\3.Usando variaveis flutuantes.csproj.CoreCompileInputs.cache
+C:\Users\caroo\source\repos\Aprendendo Csharp\3.Usando variaveis flutuantes\bin\Debug\3.Usando variaveis flutuantes.exe.config
+C:\Users\caroo\source\repos\Aprendendo Csharp\3.Usando variaveis flutuantes\bin\Debug\3.Usando variaveis flutuantes.exe
+C:\Users\caroo\source\repos\Aprendendo Csharp\3.Usando variaveis flutuantes\bin\Debug\3.Usando variaveis flutuantes.pdb
+C:\Users\caroo\source\repos\Aprendendo Csharp\3.Usando variaveis flutuantes\obj\Debug\3.Usando variaveis flutuantes.exe
+C:\Users\caroo\source\repos\Aprendendo Csharp\3.Usando variaveis flutuantes\obj\Debug\3.Usando variaveis flutuantes.pdb

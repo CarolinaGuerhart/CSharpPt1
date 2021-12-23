@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Projeto Csharp", "1.Projeto Csharp\1.Projeto Csharp.csproj", "{5205DC59-332F-4009-967C-5380567E0F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Usando variaveis", "2.Usando variaveis\2.Usando variaveis.csproj", "{8E979169-69D4-464E-A4D7-FEC4ABF6AE8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Usando variaveis flutuantes", "3.Usando variaveis flutuantes\3.Usando variaveis flutuantes.csproj", "{BE235ACC-175F-446F-82DE-AA293A8F82F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Aprendendo outras formas de variaveis numericas", "4.Aprendendo outras formas de variaveis numericas\4.Aprendendo outras formas de variaveis numericas.csproj", "{36FFFF36-F9A7-4C5F-B36D-0F5896ECEBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Variaveis em TEXTO", "5.Variaveis em TEXTO\5.Variaveis em TEXTO.csproj", "{3034A4A1-CBAB-43C2-948B-D30C7B99937D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5205DC59-332F-4009-967C-5380567E0F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5205DC59-332F-4009-967C-5380567E0F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5205DC59-332F-4009-967C-5380567E0F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5205DC59-332F-4009-967C-5380567E0F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E979169-69D4-464E-A4D7-FEC4ABF6AE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E979169-69D4-464E-A4D7-FEC4ABF6AE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E979169-69D4-464E-A4D7-FEC4ABF6AE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E979169-69D4-464E-A4D7-FEC4ABF6AE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE235ACC-175F-446F-82DE-AA293A8F82F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE235ACC-175F-446F-82DE-AA293A8F82F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE235ACC-175F-446F-82DE-AA293A8F82F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE235ACC-175F-446F-82DE-AA293A8F82F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FFFF36-F9A7-4C5F-B36D-0F5896ECEBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FFFF36-F9A7-4C5F-B36D-0F5896ECEBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FFFF36-F9A7-4C5F-B36D-0F5896ECEBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FFFF36-F9A7-4C5F-B36D-0F5896ECEBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3034A4A1-CBAB-43C2-948B-D30C7B99937D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3034A4A1-CBAB-43C2-948B-D30C7B99937D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3034A4A1-CBAB-43C2-948B-D30C7B99937D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3034A4A1-CBAB-43C2-948B-D30C7B99937D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E1F85A8-BB68-42CA-A753-CABA3662871B}
+	EndGlobalSection
+EndGlobal

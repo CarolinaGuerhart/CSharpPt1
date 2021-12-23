@@ -1,0 +1,7 @@
+C:\Users\caroo\source\repos\Aprendendo Csharp\5.Variaveis em TEXTO\obj\Debug\5.Variaveis em TEXTO.csprojAssemblyReference.cache
+C:\Users\caroo\source\repos\Aprendendo Csharp\5.Variaveis em TEXTO\obj\Debug\5.Variaveis em TEXTO.csproj.CoreCompileInputs.cache
+C:\Users\caroo\source\repos\Aprendendo Csharp\5.Variaveis em TEXTO\bin\Debug\5.Variaveis em TEXTO.exe.config
+C:\Users\caroo\source\repos\Aprendendo Csharp\5.Variaveis em TEXTO\bin\Debug\5.Variaveis em TEXTO.exe
+C:\Users\caroo\source\repos\Aprendendo Csharp\5.Variaveis em TEXTO\bin\Debug\5.Variaveis em TEXTO.pdb
+C:\Users\caroo\source\repos\Aprendendo Csharp\5.Variaveis em TEXTO\obj\Debug\5.Variaveis em TEXTO.exe
+C:\Users\caroo\source\repos\Aprendendo Csharp\5.Variaveis em TEXTO\obj\Debug\5.Variaveis em TEXTO.pdb
